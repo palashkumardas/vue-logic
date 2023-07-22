@@ -1,10 +1,10 @@
 
 <script setup>
-import classBinding from './components/classBinding.vue';
+import styleBinding from './components/styleBinding.vue';
 </script>
 
 <template>
-<classBinding></classBinding>
+<styleBinding></styleBinding>
 </template>
 
 <style scoped>
