@@ -1,10 +1,10 @@
 
 <script setup>
-import team from './components/team.vue';
+import groupingLoop from './components/groupingLoop.vue';
 </script>
 
 <template>
-<team></team>
+<groupingLoop></groupingLoop>
 </template>
 
 <style scoped>
