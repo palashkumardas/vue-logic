@@ -1,10 +1,10 @@
 
 <script setup>
-import loopCom from './components/loopCom.vue';
+import objectFilterCom from './components/objectFilterCom.vue';
 </script>
 
 <template>
-<loopCom></loopCom>
+<objectFilterCom></objectFilterCom>
 </template>
 
 <style scoped>
