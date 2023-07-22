@@ -1,10 +1,10 @@
 
 <script setup>
-import styleBinding from './components/styleBinding.vue';
+import loopCom from './components/loopCom.vue';
 </script>
 
 <template>
-<styleBinding></styleBinding>
+<loopCom></loopCom>
 </template>
 
 <style scoped>
