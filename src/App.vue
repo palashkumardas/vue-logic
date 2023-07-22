@@ -1,10 +1,10 @@
 
 <script setup>
-import objectFilterCom from './components/objectFilterCom.vue';
+import team from './components/team.vue';
 </script>
 
 <template>
-<objectFilterCom></objectFilterCom>
+<team></team>
 </template>
 
 <style scoped>
